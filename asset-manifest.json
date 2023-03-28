@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-WB/static/css/main.c5078106.css",
+    "main.js": "/Tour-WB/static/js/main.52cf71cb.js",
+    "index.html": "/Tour-WB/index.html",
+    "main.c5078106.css.map": "/Tour-WB/static/css/main.c5078106.css.map",
+    "main.52cf71cb.js.map": "/Tour-WB/static/js/main.52cf71cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5078106.css",
+    "static/js/main.52cf71cb.js"
+  ]
+}
